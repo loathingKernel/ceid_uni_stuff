@@ -1,8 +1,8 @@
 /**
  * \mainpage Ceid Cpp Project 2020
  *
- * \author Tsampas Stilianos (1039884)
- * \author Siamoglou Charalambos ()
+ * \author Tsampas Stilianos (1039884) (4104)
+ * \author Siamoglou Charalambos (1041601) (5890)
  *
  * The source code can also be found <a href="https://github.com/loathingkernel/cpp_project_eshop">here</a>.
  *

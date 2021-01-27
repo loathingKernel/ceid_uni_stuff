@@ -72,7 +72,7 @@ string
 Item::getName() { return _name; }
 
 void
-Item::setDescription(std::string desc) { _desc = desc; }
+Item::setDescription(string desc) { _desc = desc; }
 string
 Item::getDescription() { return _desc; }
 
