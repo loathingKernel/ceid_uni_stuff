@@ -48,6 +48,11 @@ public:
      * @param stock <int> The stock to set
      */
     void setStock(int stock);
+    /**
+     * \brief Get the Item's stock
+     *
+     * @return <int>
+     */
     int  getStock();
 
     /**
@@ -56,6 +61,11 @@ public:
      * @param price <double> The price to set
      */
     void   setPrice(double price);
+    /**
+     * \brief Get the Item's price
+     *
+     * @return <double>
+     */
     double getPrice();
 
     /**
@@ -64,6 +74,11 @@ public:
      * @param name <string> The name to set
      */
     void   setName(string name);
+    /**
+     * \brief Get the Item's name
+     *
+     * @return <string>
+     */
     string getName();
 
     /**
@@ -72,19 +87,86 @@ public:
      * @param desc <string> The description to set
      */
     void   setDescription(string desc);
+    /**
+     * \brief Get the Item's description
+     *
+     * @return <string>
+     */
     string getDescription();
 
+    /**
+     * \brief Get the Item's category (Pen, Pencil, Paper, Notebook)
+     *
+     * @return <string>
+     */
     string getCategory();
+    /**
+     * \brief Get the Item's basic getBasicInfo
+     *
+     * Returns the common information between items as a commaspace-separated
+     * string. The order of the returned inforation is
+     * "id, name, price, stock, description"
+     *
+     * @return <string>
+     */
     string getBasicInfo();
 
+    /**
+     * \brief Set the Item's ID based on the hash
+     *
+     * Provides the common functionality to the derivatives of truncating the
+     * hash to a 4 least significant digits. Hopefully they are unique enough to
+     * be used as IDs
+     */
+    void setId(size_t);
+    /**
+     * \brief Set the Item's category
+     *
+     * Set the item's category by removing the first character of the string
+     * returned by typeid (In the case of gcc 10 on my machine it is the name
+     * of the class prefix by the length of the string (according to the
+     * reference it is implementation specific))
+     */
+    void setCategory(string);
+
+    /**
+     * \brief Set the Item's ID.
+     *
+     * Pure abstract function that every derivative should implement.
+     * All implementations of this function work on the same way. They create 2
+     * or 3 hashes based on the unique identifiers of each item
+     * with are then XOR'd together. The first is identifier is the name of each
+     * class as returned by typeid. The second and third (if applicable) are
+     * specific to each specialization and documented there.
+     */
     virtual void setId() = 0;
-    virtual void setId(size_t);
-    virtual void setCategory(string);
+    /**
+     * \brief Get the Item's specialization specific details
+     *
+     * Pure abstract function that every derivative should implement.
+     * Returns a string of specialization specific details of each Item.
+     */
     virtual string getDetails() = 0;
 
+    /**
+     * \brief Override the cast to std::string operator
+     *
+     * Override the cast to string operator to use it to return details about
+     * each item. Works by calling the getBasicInfo() and getDetails() functions
+     */
     operator std::string ();
+    /**
+     * \brief Override for the outstream operator
+     *
+     * Used to throw information to the cout garbage can
+     */
     friend ostream& operator<<(ostream&, Item&);
 
+    /**
+     * \brief Override for the comparison operator
+     *
+     * Compares two Item objects by comparing their IDs
+     */
     bool operator==(const Item&);
 
 private:

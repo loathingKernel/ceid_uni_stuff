@@ -1,8 +1,8 @@
 /**
  * \mainpage Ceid Cpp Project 2020
  *
- * \author Tsampas Stilianos (1039884) (4104)
- * \author Siamoglou Charalambos (1041601) (5890)
+ * \author Tsampas Stilianos (1039884) (4104) tsampas@ceid.upatras.gr ceid4104@upatras.gr
+ * \author Siamoglou Charalambos (1041601) (5890) siamoglou@ceid.upatras.gr ceid5890@upatras.gr
  *
  * The source code can also be found <a href="https://github.com/loathingkernel/cpp_project_eshop">here</a>.
  *
@@ -13,8 +13,12 @@
  *
  * \section design_sec Design
  *
- * The design was based around the
- *
+ * The design was based on the proposed classes and structures with very little
+ * deviation. A few functions where refactored from "show" to "get" for clarity.
+ * The presentation of the results of those functions is handled by the Menu.
+ * We also opted to use a map to represent the cart instead of an extra class
+ * mostly because it offered STL-defined amenities. Because of the use of
+ * "contains" on containers, it requires C++20 compliant compile to build.
  */
 
 #include <iostream>

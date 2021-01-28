@@ -111,8 +111,17 @@ public:
      */
     Buyer& operator=(const Buyer&) = delete;
 
+    /**
+     * \brief Get the Buyer's bonus
+     */
     int      getBonus();
+    /**
+     * \brief Get the Buyer's category
+     */
     Category getCategory();
+    /**
+     * \brief Get the Buyer's category as string
+     */
     string   getCategoryName();
 
 private:
@@ -120,6 +129,9 @@ private:
      * \brief Sets a buyer's bonus based on the cost
      */
     void setBonus(double);
+    /**
+     * \brief Sets a buyer's category based on _bonus
+     */
     void setCategory();
 
     int _bonus;

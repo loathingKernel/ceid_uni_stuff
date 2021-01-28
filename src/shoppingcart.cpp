@@ -41,7 +41,12 @@ ShoppingCart::changeItemOrderQuantity(Item* item, int quantity)
 pair<Item*, int>
 ShoppingCart::getItemOrder(Item* item)
 {
-    return make_pair(item, _order[item]);
+    if (_order.find(item) != _order.end())
+        return make_pair(item, _order[item]);
+    else {
+        throw EShopError("Item " + item->getName() + " not found in the cart");
+        return make_pair(nullptr, 0);
+    }
 }
 
 double

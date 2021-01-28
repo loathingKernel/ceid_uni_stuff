@@ -61,7 +61,11 @@ Buyer::showCart()
 pair<Item*, int>
 Buyer::getItemOrder(Item* item)
 {
-    return _cart->getItemOrder(item);
+    try {
+        return _cart->getItemOrder(item);
+    } catch (const EShopError& e) {
+        throw e;
+    }
 }
 
 void

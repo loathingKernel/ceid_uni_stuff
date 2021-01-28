@@ -255,7 +255,13 @@ Menu::showCartMenu()
             case 3:
                 break;
             default:
-                pair<Item*, int> item_order = _buyer->getItemOrder(item);
+                pair<Item*, int> item_order;
+                try {
+                    item_order = _buyer->getItemOrder(item);
+                } catch (const EShopError& e) {
+                    cout << e.error() << endl;
+                    showCartMenu();
+                }
                 cout << "Editing Item Order: ";
                 cout << item_order.first->getName() << " (" << item_order.second << ")" << endl;
                 cout << "1. Delete Item Order" << endl;
