@@ -72,7 +72,10 @@ set<int>
 ShoppingCart::showCart()
 {
     set<int> ids;
-    if (_order.empty()) throw EShopError("Shopping cart is empty.");
+    if (_order.empty()) {
+        throw EShopError("Shopping cart is empty.");
+        return set<int>();
+    }
     for (auto o: _order) {
         ids.insert(o.first->getId());
         cout << o.first->getId() << ", " << o.first->getName() << ", " << o.second << ", "<< o.first->getPrice()*o.second << endl;

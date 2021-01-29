@@ -66,7 +66,7 @@ Menu::showOwnerMenu()
             showBuyerMenu();
             break;
         case 4:
-            showLoginMenu();
+            showWelcome();
             break;
         default:
             exit(0);
@@ -92,11 +92,14 @@ Menu::showStatusMenu()
     } while( !cin.fail() && chc < 1 && chc > idx+1);
 
     if (chc <= idx) {
-        Buyer* buyer = _eshop->getBuyerByEmail(buyers[chc][0]);
-        buyer->showCart();
-
-        if (askYesNo("Do you want to delete this buyer?")) {
-            _eshop->removeBuyer(buyer);
+        try {
+            Buyer* buyer = _eshop->getBuyerByEmail(buyers[chc-1][0]);
+            buyer->showCart();
+            if (askYesNo("Do you want to delete this buyer?")) {
+                _eshop->removeBuyer(buyer);
+            }
+        } catch (const EShopError& e) {
+            cout << e.error() << endl;
         }
         showStatusMenu();
     } else {
@@ -139,7 +142,7 @@ Menu::showBuyerMenu()
             showBuyerMenu();
             break;
         case 5:
-            showLoginMenu();
+            showWelcome();
             break;
         default:
             exit(0);

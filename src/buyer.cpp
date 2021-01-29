@@ -54,7 +54,8 @@ Buyer::showCart()
     try {
         return _cart->showCart();
     } catch (const EShopError& e) {
-        throw e;
+        cout << e.error() << endl;
+        return set<int>();
     }
 }
 
