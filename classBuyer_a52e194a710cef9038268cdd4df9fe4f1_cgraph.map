@@ -1,0 +1,4 @@
+<map id="Buyer::clearCart" name="Buyer::clearCart">
+<area shape="rect" id="node1" title="Wrapper to ShoppingCart::clearCart()" alt="" coords="5,5,119,32"/>
+<area shape="rect" id="node2" href="$classShoppingCart.html#acd9019c2973c104392974424b725a0dd" title="Clears the cart." alt="" coords="167,5,325,32"/>
+</map>

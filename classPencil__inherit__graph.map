@@ -1,0 +1,4 @@
+<map id="Pencil" name="Pencil">
+<area shape="rect" id="node1" title="Class representing a Pencil." alt="" coords="5,468,500,663"/>
+<area shape="rect" id="node2" href="$classItem.html" title="Base class for all other items." alt="" coords="85,5,421,420"/>
+</map>

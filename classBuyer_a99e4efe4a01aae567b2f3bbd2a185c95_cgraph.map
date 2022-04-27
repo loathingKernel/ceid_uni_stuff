@@ -1,0 +1,5 @@
+<map id="Buyer::awardBonus" name="Buyer::awardBonus">
+<area shape="rect" id="node1" title="Set the buyer&#39;s bonus based on the cost of the order." alt="" coords="5,31,139,57"/>
+<area shape="rect" id="node2" href="$classBuyer.html#a12b8dad507986d3ecb0ffca73c5cab22" title="Sets a buyer&#39;s bonus based on the cost." alt="" coords="194,5,310,32"/>
+<area shape="rect" id="node3" href="$classBuyer.html#a71abc791624d824d6a3da483ec342d5a" title="Sets a buyer&#39;s category based on _bonus." alt="" coords="187,56,317,83"/>
+</map>

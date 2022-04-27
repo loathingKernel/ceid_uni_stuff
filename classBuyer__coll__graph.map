@@ -1,0 +1,10 @@
+<map id="Buyer" name="Buyer">
+<area shape="rect" id="node1" title="Specialization of User. Describes a Buyer." alt="" coords="177,388,443,700"/>
+<area shape="rect" id="node8" href="$classShoppingCart.html" title="Class implementing the shopping cart." alt="" coords="62,763,406,972"/>
+<area shape="rect" id="node2" href="$classUser.html" title="Base class for all users." alt="" coords="84,160,293,311"/>
+<area shape="rect" id="node3" title=" " alt="" coords="161,5,216,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="317,197,356,274"/>
+<area shape="rect" id="node5" title=" " alt="" coords="380,197,453,274"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,197,60,274"/>
+<area shape="rect" id="node7" title=" " alt="" coords="477,197,676,274"/>
+</map>

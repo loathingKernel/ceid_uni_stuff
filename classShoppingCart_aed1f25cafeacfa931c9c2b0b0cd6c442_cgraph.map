@@ -1,0 +1,5 @@
+<map id="ShoppingCart::calculateCourier" name="ShoppingCart::calculateCourier">
+<area shape="rect" id="node1" title="Calculates the cost of the courier." alt="" coords="5,31,204,57"/>
+<area shape="rect" id="node2" href="$classShoppingCart.html#aefd629209efffec246165e50efaf40d3" title="Calculates the cost of the order." alt="" coords="252,5,431,32"/>
+<area shape="rect" id="node3" href="$classBuyer.html#a3a482baedbb2d8fc1fde5dee7a435102" title="Get the Buyer&#39;s category." alt="" coords="276,56,407,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Buyer::removeFromOrder" name="Buyer::removeFromOrder">
+<area shape="rect" id="node1" title="Removes an item from the cart completely." alt="" coords="5,31,172,57"/>
+<area shape="rect" id="node2" href="$classShoppingCart.html#ac61d13f6110480f27e8fd31e7ccdbfe6" title="Remove an item from the cart completely." alt="" coords="220,31,427,57"/>
+<area shape="rect" id="node3" href="$classItem.html#adb47826cabe2aae97ad65a57cd04f963" title="Get the Item&#39;s stock." alt="" coords="475,5,581,32"/>
+<area shape="rect" id="node4" href="$classItem.html#a0fa2135af2d5ac406fc7ee8d9b73aeec" title="Set the stock of an item." alt="" coords="475,56,581,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ShoppingCart::checkout" name="ShoppingCart::checkout">
+<area shape="rect" id="node1" title="Performs the checkout." alt="" coords="5,107,164,133"/>
+<area shape="rect" id="node2" href="$classBuyer.html#a99e4efe4a01aae567b2f3bbd2a185c95" title="Set the buyer&#39;s bonus based on the cost of the order." alt="" coords="226,56,359,83"/>
+<area shape="rect" id="node5" href="$classShoppingCart.html#aefd629209efffec246165e50efaf40d3" title="Calculates the cost of the order." alt="" coords="668,157,847,184"/>
+<area shape="rect" id="node6" href="$classShoppingCart.html#ac63018317b6a7619a80ecbf1d71e2083" title="Show the contents of the cart." alt="" coords="212,157,373,184"/>
+<area shape="rect" id="node3" href="$classBuyer.html#a12b8dad507986d3ecb0ffca73c5cab22" title="Sets a buyer&#39;s bonus based on the cost." alt="" coords="463,5,579,32"/>
+<area shape="rect" id="node4" href="$classBuyer.html#a71abc791624d824d6a3da483ec342d5a" title="Sets a buyer&#39;s category based on _bonus." alt="" coords="455,56,586,83"/>
+<area shape="rect" id="node7" href="$classShoppingCart.html#aed1f25cafeacfa931c9c2b0b0cd6c442" title="Calculates the cost of the courier." alt="" coords="421,208,620,235"/>
+<area shape="rect" id="node8" href="$classBuyer.html#a3a482baedbb2d8fc1fde5dee7a435102" title="Get the Buyer&#39;s category." alt="" coords="692,208,823,235"/>
+</map>

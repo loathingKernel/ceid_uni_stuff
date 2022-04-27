@@ -1,0 +1,7 @@
+<map id="Item::setCategory" name="Item::setCategory">
+<area shape="rect" id="node1" title="Set the Item&#39;s category." alt="" coords="193,81,316,108"/>
+<area shape="rect" id="node2" href="$classNotebook.html#aa5092bc8336a484da213317951240258" title="Constructor for Notebook." alt="" coords="5,5,145,32"/>
+<area shape="rect" id="node3" href="$classPaper.html#ab6ede816b36a604b45587838c30c05c0" title="Constructor for Paper." alt="" coords="27,56,123,83"/>
+<area shape="rect" id="node4" href="$classPen.html#a0e13574ef77fcec1a3c255a4754dbee7" title="Constructor for Pen." alt="" coords="38,107,113,133"/>
+<area shape="rect" id="node5" href="$classPencil.html#a0040515e10922cb450e4408874b57624" title="Constructor for Pencil." alt="" coords="25,157,125,184"/>
+</map>

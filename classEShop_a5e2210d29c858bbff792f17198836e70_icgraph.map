@@ -1,0 +1,13 @@
+<map id="EShop::getCategories" name="EShop::getCategories">
+<area shape="rect" id="node1" title="Get the categories of Items that exist in the e&#45;shop." alt="" coords="1088,244,1235,271"/>
+<area shape="rect" id="node2" href="$classMenu.html#a1de78dc75d7de7db8bce09a70dbbf77f" title=" " alt="" coords="873,244,1040,271"/>
+<area shape="rect" id="node3" href="$classMenu.html#a2ecf65abb196d80c5a5c354155019a93" title=" " alt="" coords="660,131,816,157"/>
+<area shape="rect" id="node6" href="$classMenu.html#a6a602f7f37917ae9582719a89246b73b" title=" " alt="" coords="215,181,376,208"/>
+<area shape="rect" id="node10" href="$classMenu.html#a8bdf4110581d8d8a82f6290f246201e7" title=" " alt="" coords="651,307,825,333"/>
+<area shape="rect" id="node4" href="$classMenu.html#a781c392fdcd203e436f5dc6e78f057a8" title=" " alt="" coords="440,29,587,56"/>
+<area shape="rect" id="node5" href="$classMenu.html#a3905222cc1c1ec7ed2dce13e16555c52" title=" " alt="" coords="424,80,603,107"/>
+<area shape="rect" id="node8" href="$classMenu.html#aaef7622e532f3424a27fce4d16dbda47" title=" " alt="" coords="441,131,586,157"/>
+<area shape="rect" id="node7" href="$classMenu.html#a788512183de460d13b8a2dfb571c03f2" title=" " alt="" coords="5,181,167,208"/>
+<area shape="rect" id="node9" href="$classMenu.html#a323509e5b6f4dc00536e87efd65b8b94" title=" " alt="" coords="249,131,341,157"/>
+<area shape="rect" id="node11" href="$classMenu.html#a957fada7140f67c43e3ee253ae863125" title=" " alt="" coords="429,307,597,333"/>
+</map>

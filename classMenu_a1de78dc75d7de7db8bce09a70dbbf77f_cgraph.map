@@ -1,0 +1,52 @@
+<map id="Menu::showBrowseMenu" name="Menu::showBrowseMenu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,385,172,412"/>
+<area shape="rect" id="node2" href="$classEShop.html#a5e2210d29c858bbff792f17198836e70" title="Get the categories of Items that exist in the e&#45;shop." alt="" coords="234,56,381,83"/>
+<area shape="rect" id="node3" href="$classUser.html#a8d2066c7fe668dd8ed958f81ad51e993" title="Check if the user is an admin." alt="" coords="719,56,821,83"/>
+<area shape="rect" id="node4" href="$classMenu.html#a2ecf65abb196d80c5a5c354155019a93" title=" " alt="" coords="229,537,385,564"/>
+<area shape="rect" id="node40" href="$classMenu.html#a6a602f7f37917ae9582719a89246b73b" title=" " alt="" coords="689,872,851,899"/>
+<area shape="rect" id="node46" href="$classMenu.html#a8bdf4110581d8d8a82f6290f246201e7" title=" " alt="" coords="220,208,395,235"/>
+<area shape="rect" id="node5" href="$classBuyer.html#a95775902b5013aa9438073b00b251090" title="Get the Buyer&#39;s bonus." alt="" coords="484,816,600,843"/>
+<area shape="rect" id="node6" href="$classBuyer.html#ae93fe05c76d09d1d1577485efdd9fa86" title="Get the Buyer&#39;s category as string." alt="" coords="459,387,625,413"/>
+<area shape="rect" id="node7" href="$classUser.html#a851bfaab8e406de66700edb326c58e38" title="Get the Email of the user." alt="" coords="1206,816,1313,843"/>
+<area shape="rect" id="node8" href="$classUser.html#adb316ac38d5f62a967686e7b736a0469" title="Get the Name of the user." alt="" coords="1205,613,1314,640"/>
+<area shape="rect" id="node9" href="$classMenu.html#a781c392fdcd203e436f5dc6e78f057a8" title=" " alt="" coords="469,461,615,488"/>
+<area shape="rect" id="node34" href="$classMenu.html#a3905222cc1c1ec7ed2dce13e16555c52" title=" " alt="" coords="453,537,631,564"/>
+<area shape="rect" id="node35" href="$classMenu.html#aaef7622e532f3424a27fce4d16dbda47" title=" " alt="" coords="469,664,615,691"/>
+<area shape="rect" id="node10" href="$classBuyer.html#a7b3cbe4b02665470d746f1d4cddc7442" title="Wrapper to ShoppingCart::checkout()" alt="" coords="713,512,827,539"/>
+<area shape="rect" id="node19" href="$classBuyer.html#a52e194a710cef9038268cdd4df9fe4f1" title="Wrapper to ShoppingCart::clearCart()" alt="" coords="713,411,827,437"/>
+<area shape="rect" id="node21" href="$classEShopError.html#a47b46a751485345958bf78cf5cd12090" title="Return the error message." alt="" coords="1479,563,1597,589"/>
+<area shape="rect" id="node22" href="$classEShop.html#a74ea0d783f8404ca1e13f8ea1f9c82aa" title="Return an Item reference if the Item&#39;s ID is found in the e&#45;shop." alt="" coords="702,208,838,235"/>
+<area shape="rect" id="node23" href="$classBuyer.html#acb2c5fc961cbb7e90089fd64e8e71fc0" title="Wrapper to ShoppingCart::getItemOrder()" alt="" coords="701,309,839,336"/>
+<area shape="rect" id="node26" href="$classBuyer.html#a50ddd9046308e8ac9b82c0665d07452b" title="Add an item to the cart with the specified quantity." alt="" coords="708,259,832,285"/>
+<area shape="rect" id="node32" href="$classBuyer.html#abbce820121c4111b8d8384c88f9e44c8" title="Removes an item from the cart completely." alt="" coords="908,360,1075,387"/>
+<area shape="rect" id="node33" href="$classBuyer.html#a83e2d5ab790fc677189fd6841489bae6" title="Wrapper to ShoppingCart::showCart()" alt="" coords="1201,715,1317,741"/>
+<area shape="rect" id="node11" href="$classShoppingCart.html#a95a853a2501345049ecd166db1a54da0" title="Performs the checkout." alt="" coords="1180,360,1339,387"/>
+<area shape="rect" id="node12" href="$classBuyer.html#a99e4efe4a01aae567b2f3bbd2a185c95" title="Set the buyer&#39;s bonus based on the cost of the order." alt="" coords="1471,335,1605,361"/>
+<area shape="rect" id="node15" href="$classShoppingCart.html#aefd629209efffec246165e50efaf40d3" title="Calculates the cost of the order." alt="" coords="1936,436,2115,463"/>
+<area shape="rect" id="node16" href="$classShoppingCart.html#ac63018317b6a7619a80ecbf1d71e2083" title="Show the contents of the cart." alt="" coords="1457,461,1619,488"/>
+<area shape="rect" id="node13" href="$classBuyer.html#a12b8dad507986d3ecb0ffca73c5cab22" title="Sets a buyer&#39;s bonus based on the cost." alt="" coords="1731,335,1847,361"/>
+<area shape="rect" id="node14" href="$classBuyer.html#a71abc791624d824d6a3da483ec342d5a" title="Sets a buyer&#39;s category based on _bonus." alt="" coords="1723,284,1854,311"/>
+<area shape="rect" id="node17" href="$classShoppingCart.html#aed1f25cafeacfa931c9c2b0b0cd6c442" title="Calculates the cost of the courier." alt="" coords="1689,487,1888,513"/>
+<area shape="rect" id="node18" href="$classBuyer.html#a3a482baedbb2d8fc1fde5dee7a435102" title="Get the Buyer&#39;s category." alt="" coords="1960,487,2091,513"/>
+<area shape="rect" id="node20" href="$classShoppingCart.html#acd9019c2973c104392974424b725a0dd" title="Clears the cart." alt="" coords="912,411,1071,437"/>
+<area shape="rect" id="node24" href="$classShoppingCart.html#a7b10eca9cc2f0ea5fd617c8f28b4dfd4" title="Get the order information of an item in the cart." alt="" coords="900,259,1083,285"/>
+<area shape="rect" id="node25" href="$classItem.html#a63d7f2148b699e539aae354b01559811" title="Get the Item&#39;s name." alt="" coords="1206,259,1313,285"/>
+<area shape="rect" id="node27" href="$classShoppingCart.html#a5481a654a62253b5de2650f9149f6780" title="Add quantity of an Item to the cart." alt="" coords="899,157,1084,184"/>
+<area shape="rect" id="node30" href="$classItem.html#adb47826cabe2aae97ad65a57cd04f963" title="Get the Item&#39;s stock." alt="" coords="1735,81,1842,108"/>
+<area shape="rect" id="node28" href="$classShoppingCart.html#a211bfa95c5d4346f6405e93b9f4a1990" title="Changes the quantity of an item in the cart." alt="" coords="1132,208,1387,235"/>
+<area shape="rect" id="node31" href="$classItem.html#a0fa2135af2d5ac406fc7ee8d9b73aeec" title="Set the stock of an item." alt="" coords="1735,157,1842,184"/>
+<area shape="rect" id="node29" href="$classShoppingCart.html#ac61d13f6110480f27e8fd31e7ccdbfe6" title="Remove an item from the cart completely." alt="" coords="1435,208,1641,235"/>
+<area shape="rect" id="node36" href="$classMenu.html#a69db6693739aa87710c029b54a90385d" title=" " alt="" coords="693,664,847,691"/>
+<area shape="rect" id="node37" href="$classMenu.html#a1cba910e7f8a136371a3eb3d18cc73b3" title="User authentication." alt="" coords="948,765,1035,792"/>
+<area shape="rect" id="node38" href="$classEShop.html#a5b06d5864cf02a1d4b2a6014d3064b61" title="Return a Buyer reference if the Buyer&#39;s email is found in the e&#45;shop." alt="" coords="1177,867,1341,893"/>
+<area shape="rect" id="node39" href="$classEShop.html#a1bc26b7bab12221cb2b7682caf93df41" title="Get the owner." alt="" coords="1198,765,1321,792"/>
+<area shape="rect" id="node41" href="$classEShop.html#afbae917d9662634da9452ff4c1ba732b" title="Get the name of the e&#45;shop." alt="" coords="932,992,1051,1019"/>
+<area shape="rect" id="node42" href="$classMenu.html#a788512183de460d13b8a2dfb571c03f2" title=" " alt="" coords="911,941,1072,968"/>
+<area shape="rect" id="node43" href="$classMenu.html#a76ccc103aac192d7ca523648dc83be7b" title="Helper function to encapsulate yes/no questions." alt="" coords="1199,664,1320,691"/>
+<area shape="rect" id="node44" href="$classEShop.html#a972be0f7e6945195d96f95240a68a967" title="Prints the status of the Buyers." alt="" coords="1190,968,1329,995"/>
+<area shape="rect" id="node45" href="$classEShop.html#ac935112a9ba86c6da391ed924d7ac1e5" title="Remove a Buyer from the eshop if it exists and clears their cart." alt="" coords="1188,1019,1331,1045"/>
+<area shape="rect" id="node47" href="$classEShop.html#acee9aa67f9f64ee4b6ba1449c286bd00" title="Get the Items in a specific category." alt="" coords="443,157,641,184"/>
+<area shape="rect" id="node48" href="$classMenu.html#a957fada7140f67c43e3ee253ae863125" title=" " alt="" coords="458,208,626,235"/>
+<area shape="rect" id="node49" href="$classEShop.html#a81f57193668487f22bfdc11597eead9d" title="Shows the details of the specified product." alt="" coords="699,5,841,32"/>
+<area shape="rect" id="node50" href="$classEShop.html#ab82e472c26df9d85acd262b449d15fb1" title="Update an Item&#39;s stock." alt="" coords="1455,5,1621,32"/>
+</map>

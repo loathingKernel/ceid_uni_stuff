@@ -1,0 +1,4 @@
+<map id="Item::setName" name="Item::setName">
+<area shape="rect" id="node1" title="Set the stock of an item." alt="" coords="133,5,240,32"/>
+<area shape="rect" id="node2" href="$classItem.html#a6785564ea28eadf4c4ed64f13b55cfc5" title="Constructor for Item, called by the derivative classes." alt="" coords="5,5,85,32"/>
+</map>

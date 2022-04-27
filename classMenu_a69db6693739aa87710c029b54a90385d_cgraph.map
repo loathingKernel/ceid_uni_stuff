@@ -1,0 +1,9 @@
+<map id="Menu::showLoginMenu" name="Menu::showLoginMenu">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,160,83"/>
+<area shape="rect" id="node2" href="$classEShopError.html#a47b46a751485345958bf78cf5cd12090" title="Return the error message." alt="" coords="208,31,327,57"/>
+<area shape="rect" id="node3" href="$classMenu.html#a1cba910e7f8a136371a3eb3d18cc73b3" title="User authentication." alt="" coords="224,81,311,108"/>
+<area shape="rect" id="node4" href="$classEShop.html#a5b06d5864cf02a1d4b2a6014d3064b61" title="Return a Buyer reference if the Buyer&#39;s email is found in the e&#45;shop." alt="" coords="375,5,539,32"/>
+<area shape="rect" id="node5" href="$classUser.html#a851bfaab8e406de66700edb326c58e38" title="Get the Email of the user." alt="" coords="403,56,510,83"/>
+<area shape="rect" id="node6" href="$classUser.html#adb316ac38d5f62a967686e7b736a0469" title="Get the Name of the user." alt="" coords="402,107,511,133"/>
+<area shape="rect" id="node7" href="$classEShop.html#a1bc26b7bab12221cb2b7682caf93df41" title="Get the owner." alt="" coords="395,157,518,184"/>
+</map>

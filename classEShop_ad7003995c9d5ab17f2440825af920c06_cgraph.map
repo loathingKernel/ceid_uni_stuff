@@ -1,0 +1,4 @@
+<map id="EShop::addItem" name="EShop::addItem">
+<area shape="rect" id="node1" title="Add an Item to the e&#45;shop." alt="" coords="5,5,119,32"/>
+<area shape="rect" id="node2" href="$classItem.html#a63d7f2148b699e539aae354b01559811" title="Get the Item&#39;s name." alt="" coords="167,5,273,32"/>
+</map>

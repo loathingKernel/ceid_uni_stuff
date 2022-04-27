@@ -1,0 +1,17 @@
+<map id="src/menu.h" name="src/menu.h">
+<area shape="rect" id="node1" title=" " alt="" coords="151,5,238,32"/>
+<area shape="rect" id="node2" href="$eshop_8h.html" title=" " alt="" coords="405,80,472,107"/>
+<area shape="rect" id="node5" href="$item_8h.html" title=" " alt="" coords="181,229,238,256"/>
+<area shape="rect" id="node11" href="$pen_8h.html" title=" " alt="" coords="21,80,75,107"/>
+<area shape="rect" id="node12" href="$pencil_8h.html" title=" " alt="" coords="61,155,128,181"/>
+<area shape="rect" id="node13" href="$notebook_8h.html" title=" " alt="" coords="152,155,237,181"/>
+<area shape="rect" id="node14" href="$paper_8h.html" title=" " alt="" coords="237,80,301,107"/>
+<area shape="rect" id="node15" href="$eshoperror_8h.html" title=" " alt="" coords="591,80,684,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="524,304,596,331"/>
+<area shape="rect" id="node4" title=" " alt="" coords="541,155,600,181"/>
+<area shape="rect" id="node6" href="$owner_8h.html" title=" " alt="" coords="451,155,517,181"/>
+<area shape="rect" id="node8" href="$buyer_8h.html" title=" " alt="" coords="363,155,426,181"/>
+<area shape="rect" id="node7" href="$user_8h.html" title=" " alt="" coords="455,229,513,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="375,229,415,256"/>
+<area shape="rect" id="node10" title=" " alt="" coords="290,229,337,256"/>
+</map>

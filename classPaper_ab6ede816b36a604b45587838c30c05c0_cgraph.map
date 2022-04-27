@@ -1,0 +1,8 @@
+<map id="Paper::Paper" name="Paper::Paper">
+<area shape="rect" id="node1" title="Constructor for Paper." alt="" coords="5,81,101,108"/>
+<area shape="rect" id="node2" href="$classItem.html#af6517f0488c9be814f5c6de8bb2a8f1f" title="Set the Item&#39;s category." alt="" coords="149,5,272,32"/>
+<area shape="rect" id="node3" href="$classPaper.html#a5fb4660c9bab53afb43617b32c38de5b" title="Override of Item::setID()" alt="" coords="165,56,256,83"/>
+<area shape="rect" id="node5" href="$classPaper.html#a2d04e86a9c097e5a627ab6cb5b47a133" title="Set the pages of Paper." alt="" coords="152,107,269,133"/>
+<area shape="rect" id="node6" href="$classPaper.html#ae0ef2f36fb8c4466ecbd4fbf1aabf2b1" title="Set the weight of Paper." alt="" coords="151,157,271,184"/>
+<area shape="rect" id="node4" href="$classItem.html#a92fda3b8072f8ad7bcc3e406785f9ad5" title="Set the Item&#39;s ID." alt="" coords="320,56,403,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Pencil::Pencil" name="Pencil::Pencil">
+<area shape="rect" id="node1" title="Constructor for Pencil." alt="" coords="5,81,105,108"/>
+<area shape="rect" id="node2" href="$classItem.html#af6517f0488c9be814f5c6de8bb2a8f1f" title="Set the Item&#39;s category." alt="" coords="155,5,277,32"/>
+<area shape="rect" id="node3" href="$classPencil.html#a4097f82beeccd6a09fcca4f21777e1d7" title="Override of Item::setID()" alt="" coords="169,56,263,83"/>
+<area shape="rect" id="node5" href="$classPencil.html#a110452522f842c0717fd421a26ded1c2" title="Set the tip size of the Pencil." alt="" coords="153,107,279,133"/>
+<area shape="rect" id="node6" href="$classPencil.html#ac8dfd709ec31ee951895e6748a2e2d1d" title="Set the type of the Pencil." alt="" coords="161,157,271,184"/>
+<area shape="rect" id="node4" href="$classItem.html#a92fda3b8072f8ad7bcc3e406785f9ad5" title="Set the Item&#39;s ID." alt="" coords="327,56,409,83"/>
+</map>

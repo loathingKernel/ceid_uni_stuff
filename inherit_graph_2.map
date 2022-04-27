@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classItem.html" title="Base class for all other items." alt="" coords="5,81,53,108"/>
+<area shape="rect" id="node2" href="$classNotebook.html" title="Class representing a Notebook." alt="" coords="101,5,180,32"/>
+<area shape="rect" id="node3" href="$classPaper.html" title="Class representing a Paper." alt="" coords="113,56,169,83"/>
+<area shape="rect" id="node4" href="$classPen.html" title="Class representing a Pen." alt="" coords="118,107,163,133"/>
+<area shape="rect" id="node5" href="$classPencil.html" title="Class representing a Pencil." alt="" coords="111,157,170,184"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Buyer" name="Buyer">
+<area shape="rect" id="node1" title="Specialization of User. Describes a Buyer." alt="" coords="5,219,345,604"/>
+<area shape="rect" id="node2" href="$classUser.html" title="Base class for all users." alt="" coords="71,5,280,171"/>
+</map>

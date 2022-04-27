@@ -1,0 +1,4 @@
+<map id="Owner" name="Owner">
+<area shape="rect" id="node1" title="Specialization of User. Describes an Owner." alt="" coords="5,219,224,311"/>
+<area shape="rect" id="node2" href="$classUser.html" title="Base class for all users." alt="" coords="10,5,219,171"/>
+</map>

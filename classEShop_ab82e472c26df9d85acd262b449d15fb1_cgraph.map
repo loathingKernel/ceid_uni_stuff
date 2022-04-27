@@ -1,0 +1,5 @@
+<map id="EShop::updateItemStock" name="EShop::updateItemStock">
+<area shape="rect" id="node1" title="Update an Item&#39;s stock." alt="" coords="5,31,171,57"/>
+<area shape="rect" id="node2" href="$classItem.html#adb47826cabe2aae97ad65a57cd04f963" title="Get the Item&#39;s stock." alt="" coords="219,5,325,32"/>
+<area shape="rect" id="node3" href="$classItem.html#a0fa2135af2d5ac406fc7ee8d9b73aeec" title="Set the stock of an item." alt="" coords="219,56,325,83"/>
+</map>

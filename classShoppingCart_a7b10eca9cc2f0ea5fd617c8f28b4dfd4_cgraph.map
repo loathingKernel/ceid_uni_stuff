@@ -1,0 +1,4 @@
+<map id="ShoppingCart::getItemOrder" name="ShoppingCart::getItemOrder">
+<area shape="rect" id="node1" title="Get the order information of an item in the cart." alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node2" href="$classItem.html#a63d7f2148b699e539aae354b01559811" title="Get the Item&#39;s name." alt="" coords="236,5,343,32"/>
+</map>
