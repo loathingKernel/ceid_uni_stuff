@@ -133,9 +133,9 @@ public:
      * \brief Set the Item's ID.
      *
      * Pure abstract function that every derivative should implement.
-     * All implementations of this function work on the same way. They create 2
+     * All implementations of this function work in the same way. They create 2
      * or 3 hashes based on the unique identifiers of each item
-     * with are then XOR'd together. The first is identifier is the name of each
+     * which are then XOR'd together. The first identifier is the name of each
      * class as returned by typeid. The second and third (if applicable) are
      * specific to each specialization and documented there.
      */
