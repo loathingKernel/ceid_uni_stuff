@@ -1,3 +1,7 @@
 build/
 .kdev4/
 *.pdf
+*.odt
+.idea
+*.kdev4
+*.zip
